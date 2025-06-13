@@ -20,7 +20,7 @@
 
 🤝 Open To: Freelance projects, remote roles, team collaborations, and open-source contributions.
 
-📫 Contact: fakharabbasbhatti@example.com
+📫 Contact: fakharabbasbhatti333@gmail.com
 
 😄 Pronouns: He/Him
 
