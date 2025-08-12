@@ -22,6 +22,8 @@
 
 📫 Contact: fakharabbasbhatti333@gmail.com
 
+🌐 Portfolio: https://fakhar-abbas-web.vercel.app/
+
 😄 Pronouns: He/Him
 
 📈 Soft Skills: Clear communication, problem-solving, adaptability, attention to detail, and continuous learning.
