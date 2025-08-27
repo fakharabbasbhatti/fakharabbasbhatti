@@ -1,8 +1,12 @@
 👋 Hello, I'm Fakhar Abbas Bhatti
 
-💻 Frontend Developer with over 8 Months of hands-on experience building scalable, responsive, and accessible web applications using modern JavaScript frameworks.
+💻 Frontend Developer with over 1 year of practical experience crafting scalable, responsive, and accessible web applications leveraging modern JavaScript frameworks.
 
 🌍 Location: Bahawalpur, Punjab, Pakistan.
+
+📫 Gmail: fakharabbasbhatti333@gmail.com
+
+🌐 Portfolio: https://fakhar-abbas-web.vercel.app/
 
 🧠 Core Expertise: React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, AOS Animation, Framer Motion, Git, RESTful APIs, and responsive UI/UX design.
 
@@ -19,10 +23,6 @@
 👀 Areas of Interest: Design systems, micro-frontends, frontend testing (Jest, React Testing Library), and Web3-based UI experiences.
 
 🤝 Open To: Freelance projects, remote roles, team collaborations, and open-source contributions.
-
-📫 Contact: fakharabbasbhatti333@gmail.com
-
-🌐 Portfolio: https://fakhar-abbas-web.vercel.app/
 
 😄 Pronouns: He/Him
 
